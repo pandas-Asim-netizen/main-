@@ -150,4 +150,4 @@ Problem Solving           ██████████████████
 <br/>
 ⭐ If you like my work, feel free to star my repositories!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,50:A855F7,100:6C63FF&height=120&section=footer" alt="Footer Banner"/> </div> ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,50:A855F7,100:6C63FF&height=120&section=footer" alt="Footer Banner"/> </div> 
