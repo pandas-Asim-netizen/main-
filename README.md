@@ -16,10 +16,14 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asim-ipynb&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ipynb&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asim-ipynb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ipynb&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+
+</div>
+
+<br/>
 
 - 🎓 **BS Artificial Intelligence** — University of Haripur  
 - ⚙️ **DAE Mechatronics** — GCT Taxila  
@@ -27,7 +31,7 @@
 
 - 🤖 Passionate about **AI, Machine Learning & Data Science**  
 - ⚡ Strong in **Electronics & Automation**  
-- 🧠 Love solving real-world problems with technology  
+- 🧠 Love solving real-world problems  
 
 - 📧 Email: **pandas.asim@gmail.com**  
 - 📱 Phone: **+92-314-5372878**
@@ -59,10 +63,19 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ipynb&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=asim-ipynb&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ipynb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asim-ipynb&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -89,7 +102,7 @@
 ## 🏆 Achievements
 
 - 🔬 Lahore Science Mela — Final Year Project Exhibition  
-- 🏅 Techno Vision Exhibition — Hardware + AI Project  
+- 🏅 Tech Exhibition — Hardware + AI Project  
 
 ---
 
@@ -112,17 +125,21 @@
 
 ## 📞 Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-asim-40b5a2353">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pandas.asim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/923145372878">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-asim-40b5a2353">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pandas.asim@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923145372878">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -130,7 +147,7 @@
 
 💡 *"The best way to predict the future is to invent it."*
 
-⭐ **Star your favorite repositories if you like my work!**
+⭐ Star your repositories if you like my work!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,50:A855F7,100:6C63FF&height=120&section=footer"/>
 
