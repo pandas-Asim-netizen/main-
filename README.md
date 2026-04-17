@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=asim-ipynb&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pandas-Asim-netizen&color=6C63FF&style=for-the-badge)
 
 </div>
 
